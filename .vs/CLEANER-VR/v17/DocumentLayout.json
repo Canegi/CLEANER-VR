@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|c:\\users\\canegi\\documents\\github\\cleaner-vr\\assets\\chainscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|solutionrelative:assets\\chainscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Locomotion\\SnapTurn\\ActionBasedSnapTurnProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Locomotion\\SnapTurn\\ActionBasedSnapTurnProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ChainScript.cs",
+              "DocumentMoniker": "C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\Assets\\ChainScript.cs",
+              "RelativeDocumentMoniker": "Assets\\ChainScript.cs",
+              "ToolTip": "C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\Assets\\ChainScript.cs",
+              "RelativeToolTip": "Assets\\ChainScript.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:27:00.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ActionBasedSnapTurnProvider.cs",
               "DocumentMoniker": "C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Locomotion\\SnapTurn\\ActionBasedSnapTurnProvider.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.5.4\\Runtime\\Locomotion\\SnapTurn\\ActionBasedSnapTurnProvider.cs",
