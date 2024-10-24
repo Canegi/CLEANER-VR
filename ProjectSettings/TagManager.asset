@@ -5,14 +5,16 @@ TagManager:
   serializedVersion: 2
   tags:
   - Basura
+  - Esponja
+  - Objetos
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
+  - Pared
   - 
   - 
   - 
