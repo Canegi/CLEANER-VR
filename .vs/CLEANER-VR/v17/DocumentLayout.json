@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|c:\\users\\canegi\\documents\\github\\cleaner-vr\\assets\\scripts\\outofthegamescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\outofthegamescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\assets\\scripts\\headtriggerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\headtriggerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|c:\\users\\canegi\\documents\\github\\cleaner-vr\\assets\\scripts\\esponjascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\esponjascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|c:\\users\\canegi\\documents\\github\\cleaner-vr\\assets\\scripts\\speakerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\speakerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|c:\\users\\canegi\\documents\\github\\cleaner-vr\\assets\\scripts\\chainscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chainscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\assets\\scripts\\toiletscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\toiletscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\assets\\scripts\\basurascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\basurascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\assets\\scripts\\chainscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chainscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\assets\\scripts\\outofthegamescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\outofthegamescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\assets\\scripts\\toiletscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\toiletscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\assets\\scripts\\esponjascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0795BF39-A959-B9A7-6BB4-59F5B0AC1BBE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\esponjascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +38,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpeakerScript.cs",
+              "DocumentMoniker": "C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\Assets\\Scripts\\SpeakerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpeakerScript.cs",
+              "ToolTip": "C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\Assets\\Scripts\\SpeakerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpeakerScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:17:21.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HeadTriggerScript.cs",
+              "DocumentMoniker": "C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\Assets\\Scripts\\HeadTriggerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HeadTriggerScript.cs",
+              "ToolTip": "C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\Assets\\Scripts\\HeadTriggerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HeadTriggerScript.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswCEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:40:19.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "OutOfTheGameScript.cs",
               "DocumentMoniker": "C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\Assets\\Scripts\\OutOfTheGameScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\OutOfTheGameScript.cs",
               "ToolTip": "C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\Assets\\Scripts\\OutOfTheGameScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\OutOfTheGameScript.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAA5wB0AAAAJAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T09:59:14.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T09:59:14.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "EsponjaScript.cs",
               "DocumentMoniker": "C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\Assets\\Scripts\\EsponjaScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EsponjaScript.cs",
@@ -55,44 +88,41 @@
               "RelativeToolTip": "Assets\\Scripts\\EsponjaScript.cs",
               "ViewState": "AQIAAD0AAAAAAAAAAAAcwE4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T09:39:44.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T09:39:44.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "basuraScript.cs",
               "DocumentMoniker": "C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\Assets\\Scripts\\basuraScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\basuraScript.cs",
               "ToolTip": "C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\Assets\\Scripts\\basuraScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\basuraScript.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T07:24:13.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T07:24:13.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ToiletScript.cs",
               "DocumentMoniker": "C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\Assets\\Scripts\\ToiletScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ToiletScript.cs",
               "ToolTip": "C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\Assets\\Scripts\\ToiletScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\ToiletScript.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:48:27.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T09:48:27.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ChainScript.cs",
               "DocumentMoniker": "C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\Assets\\Scripts\\ChainScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ChainScript.cs",
               "ToolTip": "C:\\Users\\canegi\\Documents\\GitHub\\CLEANER-VR\\Assets\\Scripts\\ChainScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\ChainScript.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBYAAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T11:40:10.538Z",
               "EditorCaption": ""
